@@ -288,29 +288,29 @@ The codebase strictly adheres to **SOLID principles** and industry-standard desi
 
 <div align="center">
 
-<img src="ERP Pictures/Code/1.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/1.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/2.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/2.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/3.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/3.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/4.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/4.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/5.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/5.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/6.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/6.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/7.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/7.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/8.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/8.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/9.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/9.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/10.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/10.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/11.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/11.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="ERP Pictures/Code/12.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="ERP%20Pictures/Code/12.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 
 </div>
