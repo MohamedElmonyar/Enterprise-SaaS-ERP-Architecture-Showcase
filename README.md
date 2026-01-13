@@ -371,9 +371,17 @@ to the database to ensure **atomicity** and **performance**.
 
 <div align="center">
 
-<img src="docs/images/plsql_example.png" alt="Stored Procedures Example" width="85%" style="border: 4px solid #00C9A7; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,201,167,0.3);">
+<img src="./ERP%20Pictures/PL_StoredProcedures/1.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/PL_StoredProcedures/2.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/PL_StoredProcedures/3.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/PL_StoredProcedures/4.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/PL_StoredProcedures/5.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
 
-> ⚡ **Example: Safe Delete Stored Function**
 > Protecting data integrity across modules with PL/pgSQL
 
 </div>
