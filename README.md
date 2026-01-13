@@ -406,13 +406,18 @@ to the database to ensure **atomicity** and **performance**.
 ### **🎯 Backend Framework**
 
 <div align="center">
-
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_14.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 </div>
 
 ### **💾 Database & Caching**
 
 <div align="center">
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_7.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FusionCache](https://img.shields.io/badge/FusionCache-FF6B6B?style=for-the-badge)
 </div>
 
 ### **📚 Key Libraries**
@@ -435,7 +440,8 @@ to the database to ensure **atomicity** and **performance**.
 ### **🐳 DevOps**
 
 <div align="center">
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 ---
