@@ -336,15 +336,15 @@ designed for multi-tenant heavy workloads.
 
 <img src="./ERP%20Pictures/ERD/CORE.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="./ERP%20Pictures/ERD/finance.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="./ERP%20Pictures/ERD/finance.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="./ERP%20Pictures/ERD/hr.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="./ERP%20Pictures/ERD/hr.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="./ERP%20Pictures/ERD/Product%20Management.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="./ERP%20Pictures/ERD/Product%20Management.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="./ERP%20Pictures/ERD/purchasing.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="./ERP%20Pictures/ERD/purchasing.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
-<img src="./ERP%20Pictures/ERD/sales.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<img src="./ERP%20Pictures/ERD/sales.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
 > 🗂️ **Complete Entity Relationship Diagram**
 > Showing all database tables, relationships, and constraints
