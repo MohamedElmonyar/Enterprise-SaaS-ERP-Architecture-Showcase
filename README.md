@@ -357,6 +357,7 @@ designed for multi-tenant heavy workloads.
 <br/>
 <img src="./ERP%20Pictures/ERD/sales.png" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
 <br/>
+
 > 🗂️ **Complete Entity Relationship Diagram**
 > Showing all database tables, relationships, and constraints
 
@@ -612,3 +613,4 @@ ERP-Core/
 ```
 
 ```
+
