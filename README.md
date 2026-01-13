@@ -10,7 +10,7 @@
 <h3>🚀 Production-Ready ERP Backend Foundation</h3>
 <h4>Built with .NET 10 & Clean Architecture</h4>
 
-> 💎 **A high-performance, modular backbone for next-generation Enterprise Resource Planning systems**
+> 💎 **A high-performance, Scalable And Secure Enterprise Resource Planning system**
 > 
 > ⚡ Engineered for scalability, tenancy isolation, and architectural strictness
 
@@ -281,7 +281,37 @@ The codebase strictly adheres to **SOLID principles** and industry-standard desi
 
 <div align="center">
 
-<img src="docs/images/scalar_api_preview.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+
+</div>
+
+## Code Snipets
+
+<div align="center">
+
+<img src="ERP Pictures/Code/1.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/2.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/3.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/4.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/5.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/6.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/7.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/8.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/9.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/10.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/11.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="ERP Pictures/Code/12.png" alt="Scalar API Documentation" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
 
 </div>
 
@@ -530,7 +560,7 @@ ERP-Core/
 
 ### **Mohamed Elmonier**
 
-*Backend Developer | .NET Specialist | System Architecture Enthusiast*
+*Backend Developer | .NET Specialist*
 
 ---
 
