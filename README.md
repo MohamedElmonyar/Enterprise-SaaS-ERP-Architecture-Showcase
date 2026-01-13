@@ -280,7 +280,18 @@ The codebase strictly adheres to **SOLID principles** and industry-standard desi
 ## 📸 API Documentation Preview (Scalar)
 
 <div align="center">
-
+<img src="./ERP%20Pictures/Scalar%20API/1.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/Scalar%20API/2.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/Scalar%20API/3.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/Scalar%20API/4.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/Scalar%20API/5.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
+<img src="./ERP%20Pictures/Scalar%20API/6.PNG" width="90%" style="border: 4px solid #0066FF; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,102,255,0.3);">
+<br/>
 
 </div>
 
